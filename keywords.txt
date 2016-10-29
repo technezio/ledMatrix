@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For ledMatrix
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ledMatrix	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+writeReg		KEYWORD2
+dot				KEYWORD2
+load			KEYWORD2
+flush			KEYWORD2
+setBrightness	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MAX7219_REG_NOOP			LITERAL1
+MAX7219_REG_DECODEMODE		LITERAL1
+MAX7219_REG_INTENSITY		LITERAL1
+MAX7219_REG_SCANLIMIT		LITERAL1
+MAX7219_REG_SHUTDOWN		LITERAL1
+MAX7219_REG_DISPLAYTEST		LITERAL1
